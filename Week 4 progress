@@ -1,0 +1,21 @@
+<!--Navbar-->
+      <div id="nav">
+          <div class="toggle-btn"onclick="button()">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Deals</li>
+            <li>Blog</li>
+            <li>Contact</li>
+        </ul>
+        <div class="social">
+            <i class="fab fa-facebook"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+        </div>
+      </div>
+      <!--end of Navbar-->
