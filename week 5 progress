@@ -1,12 +1,20 @@
-<div class="col-lg-3 col-sm-6 col-md-6 mb-4 mb-xl-0 footer-widget">
-                <h4> Newsletter</h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-                <div class="form-wrap">
-                    <form>
-                        <div class="input-group">
-                            <input type="email"class="form-control" name="Email"placeholder="Email Address">
-                            <div class="input-group-append">
-                                <button class="btn click-btn" type="submit">
-                                    <i class="fab fa-telegram-plane"></i>
-                                </button>
-                            </div>
+<ul class="card-info">
+                            <li><a href="#">
+                                <span class="card-icon">
+                                    <i class="far fa-calendar-alt"></i>
+                                    15 Nov, 2020
+                                </span>
+                            </a></li>
+                            <li><a href="#"><span class="card-icon">
+                                <i class="fas fa-comments"></i>
+                                04 comments
+                            </span></a></li>
+
+                        </ul>
+                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, molestias.</p>
+                        <a href="#"class="card-link">Read More
+                            <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
